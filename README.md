@@ -1,9 +1,7 @@
 ![6](https://github.com/user-attachments/assets/624e7ba3-0bcf-4a41-9669-d463e5de4753)
 ![5](https://github.com/user-attachments/assets/fa115862-be38-4910-aeb7-3d1cf64f2a71)
 ![4](https://github.com/user-attachments/assets/66ea1f58-8fa7-4e9d-aec6-14a1dfcb9f39)
-![3](https://github.com/user-attachments/assets/c340631b-7f1c-4deb-a67f-b7af2b202420)
-![2](https://github.com/user-attachments/assets/2713ac75-e8e7-4832-831d-8faa36994d40)
-![1](https://github.com/user-attachments/assets/9d66887a-1c0a-4a8a-8ee2-703266758450)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
